@@ -48,7 +48,4 @@ The following files are present inside datasets folder:
 - Matplotlib - version 3.3.4
 - Seaborn - version 0.11.1
 - sklearn - version 0.24.1
-
-## Contact Information
-Created by: Rama Santosh Ravada
-- 
+ 
